@@ -1,4 +1,4 @@
-# Desafio 2 -  Flutter:
+# Desafio Flutter:
  - Criar uma apk de um app utilizando Flutter.
  
 ## O que é importante:
